@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background {
+    width 100%;
+    width: 1349px;
+    height: 1433;
+    background-image: url("../img/fone.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.whapper {
+    width: 480px;
+    background: white;
+    margin: auto;
+    padding: 60px 40px;
+    margin: 200px auto 120px;
+}
+
+.h2 {
+    color: #263555;
+    margin-bottom: 35px;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 25px;
+}
+
+.plane {
+    margin-bottom: 10px;
+}
+
+.lorem1 {
+    color: #263555;
+    font-size: 13px;
+    margin-top: 23px;
+    margin-bottom: 31px;
+}
+
+.h3 {
+    color: #263555;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.lorenbottom {
+    color: #263555;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.our-one {
+    color: #263555;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.our-one1 {
+    color: #263555;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.ourbottom {
+    color: #263555;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.ourbottom1 {
+    color: #263555;
+    font-size: 13px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.ourtree {
+    color: #263555;
+    margin-bottom: 35px;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 25px;
+}
+
+.whatbottom {
+    color: #263555;
+    font-size: 13px;
+}
+
+.whatbottomone {
+    color: #263555;
+    padding-top: 23px;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+.whatbottomtho {
+    color: #263555;
+    text-align: center;
+    width: 175px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 22px;
+    font-size: 16px;
+}
+
+.whatbottomtho2 {
+    color: #263555;
+    text-align: center;
+    width: 175px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 22px;
+    font-size: 16px;
+}
